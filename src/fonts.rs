@@ -4,6 +4,10 @@ pub const NOTO_SANS_REGULAR: &[u8] = include_bytes!("../assets/noto-sans/NotoSan
 pub const NOTO_SANS_REGULAR_ITALIC: &[u8] =
     include_bytes!("../assets/noto-sans/NotoSans-Italic.ttf");
 
+pub const NOTO_SANS_THIN: &[u8] = include_bytes!("../assets/noto-sans/NotoSans-Thin.ttf");
+pub const NOTO_SANS_THIN_ITALIC: &[u8] =
+    include_bytes!("../assets/noto-sans/NotoSans-ThinItalic.ttf");
+
 pub const NOTO_SANS_LIGHT: &[u8] = include_bytes!("../assets/noto-sans/NotoSans-Light.ttf");
 pub const NOTO_SANS_LIGHT_ITALIC: &[u8] =
     include_bytes!("../assets/noto-sans/NotoSans-LightItalic.ttf");
